@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<script>
+{
+  var M
+  M=documnet.getElememtByID("id01");
+  M.inner Text="선택한 전환 기간에 따라 광고가 현재 광고 세트의 최적화 목표를 달성한 횟수.";
+  }
+</script>
+</head>
+<body>
+  <h1 id="id01" onmouseover="mover()"> </h1>
+  </body>
+  </html>
